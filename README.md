@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrebelem21&theme=merko" />
 <!--
 **alexandrebelem21/alexandrebelem21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
