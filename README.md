@@ -1,19 +1,16 @@
 
-<div>
-</div>
-  <div align="left"> 
-    Sou o Alexandre Belem e quero te apresentar minha jornada e alguns de meus projetos: Conclui recentemente meu curso de desenvolvedor Web na Trybe, e atualmente curso Tecnólogo em Cibersegurança na XPE e curso UI/UX da Google.
+###  Sou o Alexandre Belem e quero te apresentar minha jornada e alguns de meus projetos.
+   Conclui recentemente meu curso de desenvolvedor Web na Trybe, e atualmente estou cursando Tecnólogo em Cibersegurança na XPE e UI/UX da Google.
+   
+   Desde o início sempre tive a paixão por criar projetos funcionais e atraentes e através dos meus cursos pude aprender com profissionais experientes e me aprofundar em tecnologias atuais e relevantes no mercado.
+   
+   Se você estiver procurando por um desenvolvedor iniciante com habilidades sólidas em **HTML, CSS, JavaScript, Git, ReactJS, Bootstrap e Tailwind**, não hesite em entrar em contato. Estou ansioso para trabalhar em projetos interessantes e contribuir para o sucesso de sua empresa.
 
-Desde o início sempre tive a paixão por criar projetos funcionais e atraentes e através dos meus cursos pude aprender com profissionais experientes e me aprofundar em tecnologias atuais e relevantes no mercado.
-
-Se você estiver procurando por um desenvolvedor iniciante com habilidades sólidas em HTML, CSS, JavaScript, Git, ReactJS, Bootstrap e Tailwind, não hesite em entrar em contato. Estou ansioso para trabalhar em projetos interessantes e contribuir para o sucesso de sua empresa.
-  </div>
-
+---
 
 <div align="center">
-Linguagens e ferramentas:  
+Linguagens e ferramentas:
 <br></br>
-
 <p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -31,5 +28,4 @@ Linguagens e ferramentas:
 
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrebelem21&theme=onedark" />
-  </div>
   </div>
