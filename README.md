@@ -7,6 +7,7 @@
 
 
 ###  Sou o Alexandre Belem e quero te apresentar minha jornada e alguns de meus projetos.
+Amante de esportes, em especial futebol. Atraido por decisões, gosto sempre de bater o penalti.
    Conclui recentemente meu curso de desenvolvedor Web na Trybe, e atualmente estou cursando Tecnólogo em Cibersegurança na XPE e UI/UX da Google.
    
    Desde o início sempre tive a paixão por criar projetos funcionais e atraentes e através dos meus cursos pude aprender com profissionais experientes e me aprofundar em tecnologias atuais e relevantes no mercado.
