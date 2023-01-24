@@ -4,9 +4,8 @@
    
    Desde o início sempre tive a paixão por criar projetos funcionais e atraentes e através dos meus cursos pude aprender com profissionais experientes e me aprofundar em tecnologias atuais e relevantes no mercado.
    
-   Se você estiver procurando por um desenvolvedor iniciante com habilidades sólidas em **HTML, CSS, JavaScript, Git, ReactJS, Bootstrap e Tailwind**, não hesite em entrar em contato. Estou ansioso para trabalhar em projetos interessantes e contribuir para o sucesso de sua empresa.
+   Se você estiver procurando por um desenvolvedor iniciante com habilidades sólidas em **HTML, CSS, JavaScript, Git, ReactJS, Bootstrap e Tailwind**, não hesite em entrar em contato. Estou ansioso para trabalhar em projetos interessantes e contribuir para o sucesso de sua empresa. 
 
----
 
 <div align="center">
 Linguagens e ferramentas:
@@ -28,4 +27,6 @@ Linguagens e ferramentas:
 
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrebelem21&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebelem21&theme=onedark" />
+
   </div>
