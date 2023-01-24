@@ -1,3 +1,10 @@
+<a href="https://www.instagram.com/kikiu20/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/alexandrebelem21/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
 
 ###  Sou o Alexandre Belem e quero te apresentar minha jornada e alguns de meus projetos.
    Conclui recentemente meu curso de desenvolvedor Web na Trybe, e atualmente estou cursando Tecnólogo em Cibersegurança na XPE e UI/UX da Google.
