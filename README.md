@@ -15,6 +15,10 @@
    
 -- Se você estiver procurando por um desenvolvedor iniciante com habilidades sólidas em **HTML, CSS, JavaScript, Git, ReactJS, Bootstrap e Tailwind**, não hesite em entrar em contato. Estou ansioso para trabalhar em projetos interessantes e contribuir para o sucesso de sua empresa. 
 
+-- Aqui \ / tem um pouco mais dos meus projetos. Confere lá! ;)
+
+https://alexandrebelem.vercel.app/ 
+
 
 <div align="center">
 Linguagens e ferramentas:
