@@ -40,7 +40,7 @@ Linguagens e ferramentas:
 </p>
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrebelem21&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebelem21&theme=onedark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandrebelem21&theme=onedark"  width="500" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebelem21&theme=onedark" width="250" height="300" />
 
   </div>
