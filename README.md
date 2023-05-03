@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-###  Apaixonado aprender e ensinar, sempre fui apaixonado por tecnologia.
+###  Apaixonado aprender e ensinar, sempre fui fascinado por tecnologia.
 Atualmente dou aula de robótica e em busca de novos desafios estou em transição de carreira para a area de desenvolvimento web. Quero te apresentar minha jornada e alguns de meus projetos.
 Conclui recentemente meu curso de desenvolvedor Web Full-Stack na Trybe, e estou cursando Tecnólogo em Cibersegurança na XPE.
 
