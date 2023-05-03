@@ -3,7 +3,7 @@
 </a>
 
 ###  Apaixonado aprender e ensinar, sempre fui fascinado por tecnologia.
-Atualmente dou aula de robótica e em busca de novos desafios estou em transição de carreira para a area de desenvolvimento web. Quero te apresentar minha jornada e alguns de meus projetos.
+Atualmente leciono robótica e em busca de novos desafios estou em transição de carreira para a area de desenvolvimento web. Quero te apresentar minha jornada e alguns de meus projetos.
 Conclui recentemente meu curso de desenvolvedor Web Full-Stack na Trybe, e estou cursando Tecnólogo em Cibersegurança na XPE.
 
 O mundo da tecnologia sempre foi minha paixão, digamos que passei por todo ciclo do windows, ah o MS-DOS... Então finalmente decidi migrar para área que sempre fui apaixonado. Através dos meus cursos pude aprender e me aprofundar em tecnologias atuais e relevantes no mercado.
