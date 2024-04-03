@@ -6,14 +6,13 @@
 Atualmente leciono robótica e em busca de novos desafios estou em transição de carreira para a area de desenvolvimento web. Quero te apresentar minha jornada e alguns de meus projetos.
 Conclui recentemente meu curso de desenvolvedor Web Full-Stack na Trybe, e estou cursando Tecnólogo em Cibersegurança na XPE.
 
-O mundo da tecnologia sempre foi minha paixão, digamos que passei por todo ciclo do windows, ah o MS-DOS... Então finalmente decidi migrar para área que sempre fui apaixonado. Através dos meus cursos pude aprender e me aprofundar em tecnologias atuais e relevantes no mercado.
 Já tenho habilidades sólidas em HTML, CSS, JavaScript, C++, TypeScript, Git, Github, ReactJS, Bootstrap, Tailwind, Docker, MySQL, MongoDB, Node.js, Jest. E estou constantemente em busca de novos conhecimentos, atualmente estou estudando também Java, Python e Vue.Js.
 
-Nos últimos meses em minha formação tanto na Trybe quanto na XPE pude desenvolver minhas habilidades interpessoais e metodologias ágeis, como SCRUM. Os projetos desenvolvidos em grupo ou individual alem de desafiadores refletem o dia dia no mercado de trabalho.
+Em minha formação tanto na Trybe quanto na XPE pude desenvolver minhas habilidades interpessoais e metodologias ágeis, como SCRUM. Os projetos desenvolvidos em grupo ou individual alem de desafiadores refletem o dia dia no mercado de trabalho.
 Estou ansioso para trabalhar em mais projetos interessantes e contribuir para o sucesso de sua empresa 
 
 -- Aqui <a href="https://alexandrebelem.vercel.app/ " target="_blank">
-  <img src="https://user-images.githubusercontent.com/103572567/214209459-7f4f4a9d-1a0b-4fc6-b455-c1cbc4c6d624.png" width="32px" height="32px">
+  <img src="https://user-images.githubusercontent.com/103572567/214209459-7f4f4a9d-1a0b-4fc6-b455-c1cbc4c6d624.png" width="28px" height="28px">
 </a> voce confere minha pagina e os meus projetos. Te espero lá! ;)
 
 
